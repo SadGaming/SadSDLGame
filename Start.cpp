@@ -1,6 +1,4 @@
 #include <iostream>
-#include <SDL_image.h>
-#include <SDL.h>
 #include "engine/Engine.h"
 
 const int FPS = 60;
