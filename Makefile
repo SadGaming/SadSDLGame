@@ -1,14 +1,14 @@
 #inclue these files
-OBJS = Start.cpp engine/Engine.h
+OBJS = Start.cpp engine/classes/*
 
 #output exec
 OBJ_NAME = test
 
 #compiler
-CC = gcc
+CC = g++
 
 #compiler flags
-COMPILER_FLAGS = -w
+COMPILER_FLAGS = -w -std=c++11
 
 #libraries linked
 LINKER_FLAGS = -lSDL2 -lSDL2_image
