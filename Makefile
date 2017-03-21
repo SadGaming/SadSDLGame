@@ -2,7 +2,7 @@
 OBJS = Start.cpp engine/classes/*
 
 #output exec
-OBJ_NAME = test
+OBJ_NAME = SDLgame
 
 #compiler
 CC = g++
