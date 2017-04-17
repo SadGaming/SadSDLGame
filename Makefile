@@ -1,6 +1,6 @@
 #inclue these files
-OBJS = Start.cpp engine/classes/*
-
+SRC = Start.cpp engine/classes/*
+OBJS = $(SRC:.cpp=.o)
 #output exec
 OBJ_NAME = SDLgame
 

@@ -31,3 +31,5 @@
 #engine folders
 SadSDLEngine/
 engine/
+#game
+SDLgame
