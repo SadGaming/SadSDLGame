@@ -6,7 +6,7 @@ A basic SDL game using c++ and the [SadGaming engine](https://github.com/SadGami
 ### Installation (Linux)
 
 Install dependencies using your package manager. for Debian/Ubuntu/apt users:  
-`sudo apt install libsdl2-image-dev libsdl2-dev g++ python` Python is used for init scripts.
+`sudo apt install libsdl2-image-dev libsdl2-dev g++`
 
 Clone the repository, update the submodules, and compile the game:  
 ```
