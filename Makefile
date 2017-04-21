@@ -1,5 +1,5 @@
-#inclue these files
-SRC = Start.cpp $(wildcard engine/classes/*.cpp)
+#include these files
+SRC = $(wildcard *.cpp) $(wildcard engine/classes/*.cpp)
 OBJS = $(SRC:.cpp=.o)
 #output exec
 OBJ_NAME = SDLgame
