@@ -1,5 +1,6 @@
 #include <iostream>
 #include "engine/Engine.h"
+#include "Player.h"
 
 const int FPS = 60;
 const int TPF = 1000 / FPS;
